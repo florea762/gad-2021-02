@@ -1,9 +1,9 @@
-my_age = 10
+my_age = 50
 
 # ....
 
 
-str_ = 'abc'  # inline comment
+str_ = 'another custom string'  # inline comment
 
 # ....
 print('my_module name = ', __name__)
